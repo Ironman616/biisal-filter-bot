@@ -52,11 +52,21 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴏᴜʀ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ✨</b>'''
 
     
-    REF_LINK = '''🔗 <b>Hᴇʀᴇ ɪs ᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ: <code>https://telegram.me/{}?start=biisl-{}</code>
-    
-👥 Fᴏʀ ᴇᴠᴇʀʏ ɴᴇᴡ ᴜsᴇʀ ᴡʜᴏ sᴛᴀʀᴛs ᴛʜᴇ ʙᴏᴛ ᴜsɪɴɢ ᴛʜɪs ʟɪɴᴋ, ʏᴏᴜ ᴡɪʟʟ ʀᴇᴄᴇɪᴠᴇ 100 ᴘᴏɪɴᴛs. 
+    REF_LINK = '''🔗 <b> <u>Donate & Support Us</u> 🎁
+𝖧𝗂 Guys.
+𝖮𝗎𝗋 𝖡𝗈𝗍 𝖨𝗌 𝖦𝗂𝗏𝗂𝗇𝗀 𝖣𝗂𝗋𝖾𝖼𝗍 𝖥𝗂𝗅𝖾𝗌 𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖲𝗁𝗈𝗋𝗍𝗇𝖾𝗋𝗌, 𝖴𝗇𝗅𝗂𝗄𝖾 𝖮𝗍𝗁𝖾𝗋 𝖡𝗈𝗍𝗌. 𝖲𝗈 𝖨𝖿 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾 𝖮𝗎𝗋 𝖥𝗋𝖾𝖾 𝖲𝖾𝗋𝗏𝗂𝖼𝖾 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇𝖺𝗍𝖾 𝖴𝗌
+ 𝖶𝗁𝗂𝖼𝗁 𝖶𝗂𝗅𝗅 𝖡𝖾 𝖱𝖾𝖺𝗅𝗅𝗒 𝖧𝖾𝗅𝗉𝖿𝗎𝗅𝗅 𝖥𝗈𝗋 𝖴𝗌.
 
-🎉 Oɴᴄᴇ ʏᴏᴜ ʀᴇᴀᴄʜ {} ᴘᴏɪɴᴛs, ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss.</b>'''
+𝖠𝗇𝗒 𝖠𝗆𝗈𝗎𝗇𝗍 𝖶𝗈𝗎𝗅𝖽 𝖡𝖾 𝖥𝗂𝗇𝖾 (10, 20, 30, 50, 100...) 𝖠𝗌 𝖫𝗈𝗇𝗀 𝖠𝗌 𝖸𝗈𝗎 𝖳𝗁𝗂𝗇𝗄 𝖮𝗎𝗋 𝖡𝗈𝗍 D𝖾𝗌𝖾𝗋𝗏𝖾𝗌 𝖨𝗍.
+
+Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Channel lo Undadu. Inka Mi Istam 
+
+𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
+𝗨𝗣𝗜 𝗜𝗗:- <code> movieloverz11220@okaxis </code>
+
+QR CODE:- 👉SCAN QR CODE (https://graph.org/file/1e1e883ef2309c91aad77.jpg) (Open Link,Save QR and Pay)
+  
+𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍.</b>'''
     REF_PREMEUM = '''<b>ᴄᴏɴɢʀᴀᴛᴜʟᴀᴛɪᴏɴs!\n\nYᴏᴜ'ᴠᴇ ʀᴇᴀᴄʜᴇᴅ {} ᴘᴏɪɴᴛs, ɴᴏᴡ ʏᴏᴜ ᴀʀᴇ ᴇʟɪɢɪʙʟᴇ ғᴏʀ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss. Yᴏᴜʀ ᴘᴏɪɴᴛs ʜᴀᴠᴇ ʙᴇᴇɴ ʀᴇsᴇᴛ. Rᴇғᴇʀ ᴍᴏʀᴇ ᴛᴏ ᴇxᴛᴇɴᴅ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss ғᴜʀᴛʜᴇʀ.\n\nᴜsᴇ /myplan ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</b>'''
     REF_START = '''<b>{} ,sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴜsɪɴɢ ʏᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ
 ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴘᴏɪɴᴛ ɪs : {}</b>'''
@@ -137,26 +147,24 @@ User - {}"""
     
     PREMIUM_TEXT = """<b>👋 Hey There,
     
-    <u>Donate & Support Us</u> 🎁
+     <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+    😎 ᴛᴏ ɢᴇᴛ ʟᴀᴛᴇsᴛ & ᴏʟᴅ ᴍᴏᴠɪᴇs ɪɴ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ʟᴀɴɢᴜᴀɢᴇs ᴊᴏɪɴ ᴀʟʟ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ɴᴏᴡ
 
-    𝖧𝗂 Guys.
-𝖮𝗎𝗋 𝖡𝗈𝗍 𝖨𝗌 𝖦𝗂𝗏𝗂𝗇𝗀 𝖣𝗂𝗋𝖾𝖼𝗍 𝖥𝗂𝗅𝖾𝗌 𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖲𝗁𝗈𝗋𝗍𝗇𝖾𝗋𝗌, 𝖴𝗇𝗅𝗂𝗄𝖾 𝖮𝗍𝗁𝖾𝗋 𝖡𝗈𝗍𝗌. 𝖲𝗈 𝖨𝖿 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾 𝖮𝗎𝗋 𝖥𝗋𝖾𝖾 𝖲𝖾𝗋𝗏𝗂𝖼𝖾 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇𝖺𝗍𝖾 𝖴𝗌
- 𝖶𝗁𝗂𝖼𝗁 𝖶𝗂𝗅𝗅 𝖡𝖾 𝖱𝖾𝖺𝗅𝗅𝗒 𝖧𝖾𝗅𝗉𝖿𝗎𝗅𝗅 𝖥𝗈𝗋 𝖴𝗌.
+𝗝𝗼𝗶𝗻 𝗻𝗼𝘄 & 𝗦𝗲𝗮𝗿𝗰𝗵 𝗬𝗼𝘂𝗿 𝗙𝗮𝘃𝗼𝘂𝗿𝗶𝘁𝗲 𝗠𝗼𝘃𝗶𝗲𝘀
 
-𝖠𝗇𝗒 𝖠𝗆𝗈𝗎𝗇𝗍 𝖶𝗈𝗎𝗅𝖽 𝖡𝖾 𝖥𝗂𝗇𝖾 (10, 20, 30, 50, 100...) 𝖠𝗌 𝖫𝗈𝗇𝗀 𝖠𝗌 𝖸𝗈𝗎 𝖳𝗁𝗂𝗇𝗄 𝖮𝗎𝗋 𝖡𝗈𝗍 D𝖾𝗌𝖾𝗋𝗏𝖾𝗌 𝖨𝗍.
+1 𝗝𝗼𝗶𝗻 𝗻𝗼𝘄 -<b> @MOVIE_LOVERZZ </b>
 
-Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Channel lo Undadu. Inka Mi Istam 
+2 𝗝𝗼𝗶𝗻 𝗻𝗼𝘄 - <a href='https://t.me/+tgzl_s8HpJVjNDI1'><b>MOVIES UPDATES </b></a> 
 
-𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
-𝗨𝗣𝗜 𝗜𝗗:- <code> movieloverz11220@okaxis </code>
+3 𝗝𝗼𝗶𝗻 𝗻𝗼𝘄  - <a href='https://t.me/+XIuQBnMWHno4MjY1'> <b> FLASH DEALS & OFFERS </b></a> 
 
-QR CODE:- 👉SCAN QR CODE (https://graph.org/file/1e1e883ef2309c91aad77.jpg) (Open Link,Save QR and Pay)
-  
-𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍</b>"""
+ғᴏʀ ǫᴜɪʀᴇs & ᴅᴍᴄᴀ ᴛᴀᴋᴇᴅᴏᴡɴ
+
+ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ <a href='https://t.me/mladminbot'> <b> ADMIN </b></a> </b>"""
 
     BUY_PLAN = """<b>○ <u>ғɪʀsᴛ sᴛᴇᴘ</u> : ᴘᴀʏ ᴛʜᴇ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴘʟᴀɴ ᴛᴏ ᴛʜɪs <code>rayavisek@ibl</code> ᴜᴘɪ ɪᴅ.
     
-○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: @biisal_bot 
+○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: 
 
 ○ <u>ᴀʟᴛᴇʀɴᴀᴛɪᴠᴇ sᴛᴇᴘ</u> : ᴏʀ ᴜᴘʟᴏᴀᴅ ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ʜᴇʀᴇ ᴀɴᴅ ʀᴇᴘʟʏ ᴡɪᴛʜ ᴛʜᴇ /bought ᴄᴏᴍᴍᴀɴᴅ.
 
