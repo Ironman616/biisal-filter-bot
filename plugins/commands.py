@@ -142,7 +142,7 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='premium'),
+                            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='MOVIE_GROUP_LINK'),
                             ],
                             [
                             InlineKeyboardButton('💰 Dᴏɴᴀᴛᴇ & Sᴜᴘᴘᴏʀᴛ ᴜꜱ 💰', callback_data=f'free_premium#{message.from_user.id}')
@@ -172,7 +172,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
         ],[
             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='premium'),
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='MOVIE_GROUP_LINK'),
         ],
         [
             InlineKeyboardButton('💰 Dᴏɴᴀᴛᴇ & Sᴜᴘᴘᴏʀᴛ ᴜꜱ 💰', callback_data=f'free_premium#{message.from_user.id}')
