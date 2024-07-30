@@ -55,9 +55,9 @@ async def set_stream_link(client, message):
             await db.set_stream_link(link)
             await message.reply("Successfully set stream link!")
         else:
-            await message.reply("Usage: /stream https://t.me/bisal_file or http://t.me/bisal_fils")
+            await message.reply("Usage: /stream https://t.me/Movie_loverzz or http://t.me/MOVIE_LOVERZZ")
     except IndexError:
-        await message.reply("Usage: /stream https://t.me/bisal_fies or http://t.me/bisal_fles")
+        await message.reply("Usage: /stream https://t.me/MOVIE_LOVERZZ or http://t.me/Movie_loverzz")
         return
 
 
