@@ -227,7 +227,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
         ],[
             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='premium'),
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ', callback_data='MOVIE_GROUP_LINK'),
         ],
         [
             InlineKeyboardButton('💰 Dᴏɴᴀᴛᴇ & Sᴜᴘᴘᴏʀᴛ ᴜꜱ 💰', callback_data=f'free_premium#{message.from_user.id}')
@@ -808,7 +808,7 @@ async def set_shortner_3(c, m):
     try:
         URL = m.command[1]
         API = m.command[2]
-        resp = requests.get(f'https://{URL}/api?api={API}&url=https://telegram.dog/movie_loverzz').json()
+        resp = requests.get(f'https://{URL}/api?api={API}&url=https://telegram/movie_loverzz').json()
         if resp['status'] == 'success':
             SHORT_LINK = resp['shortenedUrl']
         await save_group_settings(grp_id, 'shortner_three', URL)
