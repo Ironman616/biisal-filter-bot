@@ -282,9 +282,9 @@ class Database:
                         return myLinks.get("links")[1]
                 else:
                     if index == 0:
-                        return "https://t.me/Movei_loverzz" , False
+                        return "https://t.me/+UGyUPJMSjKM3Yjg1" , False
                     else :
-                        return "https://t.me/Movie_loverzz"
+                        return "https://t.me/+UGyUPJMSjKM3Yjg1"
         except Exception as e:
             print(f"got err in db set : {e}")
     async def set_stream_link(self,link):
